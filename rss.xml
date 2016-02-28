@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Live, Love, Talk]]></title>
         <description><![CDATA[Live, Love, Talk]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theresa-crowley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 18:19:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 19:18:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theresa-crowley/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[~Be You! Be Bold! Be Beautiful!~   ]]></title>
+            <description><![CDATA[<article><h1>~Be You! Be Bold! Be Beautiful!~   </h1><img src="http://cdn.shopify.com/s/files/1/1080/9708/t/1/assets/logo.png?10497449441357831688"></article>]]></description>
+            <link>http://millieruth.com/collections/all</link>
+            <guid isPermaLink="false">62ea38d5-3a27-47f4-90e1-e345f56f4829</guid>
+            <pubDate>Sun, 28 Feb 2016 19:17:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f11b0339-633a-446e-b548-505f0d41483f.jpg">]]></description>
-            <link>undefinedc4fca3ef-145d-4140-869d-8cd5058b5c17/index.html</link>
+            <link>https://thegrid.ai/theresa-crowley/c4fca3ef-145d-4140-869d-8cd5058b5c17/index.html</link>
             <guid isPermaLink="false">c4fca3ef-145d-4140-869d-8cd5058b5c17</guid>
             <pubDate>Sun, 28 Feb 2016 18:19:04 GMT</pubDate>
         </item>
